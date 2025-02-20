@@ -1,0 +1,1 @@
+This repository contains a simple Tcl program demonstrating an uncommon error related to argument mismatch in procedure calls. The `bug.tcl` file shows a procedure `myproc` expecting two arguments but is called once with two and once with only one argument.  The `bugSolution.tcl` file provides a solution to handle missing or extra arguments.
